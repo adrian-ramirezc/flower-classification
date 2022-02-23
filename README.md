@@ -2,7 +2,7 @@
 
 - Split the data in training and test set (the training set will be divided in training and validation set for cross-validation)
 
-- Standarize, normalize, ... ?
+- Standarize, normalize, ... ? That depends on the ML algorithm, apply one of these methods if the algorithm is based in distances or multiplies the features by weights.
 
 - List the most appropiate models for the problem. List the hyperparameters for each model.
 
